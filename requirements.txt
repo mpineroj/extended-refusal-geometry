@@ -1,0 +1,16 @@
+torch==2.5.1
+transformers==4.44.0
+accelerate
+datasets
+nnsight==0.3.6
+wandb
+python-dotenv
+jaxtyping
+einops
+scipy
+numpy
+matplotlib
+seaborn
+pandas
+tqdm
+modal

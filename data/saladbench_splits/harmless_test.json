@@ -1,0 +1,386 @@
+[
+  {
+    "instruction": "Generate a list of five main goals for a team."
+  },
+  {
+    "instruction": "You are given a date. Make up a sentence using the date as a reference."
+  },
+  {
+    "instruction": "Postulate a realistic hypothesis about the given concept."
+  },
+  {
+    "instruction": "Name three ways artificial intelligence is used in healthcare."
+  },
+  {
+    "instruction": "Please find a quotation from the book that best summarizes the message of the book."
+  },
+  {
+    "instruction": "Generate a story where the protagonist goes to a giant door and unlocks it using a magical key."
+  },
+  {
+    "instruction": "Create an original poem inspired by the following line."
+  },
+  {
+    "instruction": "Create a loop that prints the numbers 1 to 5."
+  },
+  {
+    "instruction": "Create a 5-word catchphrase associated with a space mission"
+  },
+  {
+    "instruction": "Identify the sentence type."
+  },
+  {
+    "instruction": "Compare two pieces of artwork and explain the differences between them."
+  },
+  {
+    "instruction": "Generate a recipe for a healthy meal that's easy to make."
+  },
+  {
+    "instruction": "Fill in the blank using a verb in the past tense."
+  },
+  {
+    "instruction": "Compare and contrast the differences between supervised and unsupervised machine learning."
+  },
+  {
+    "instruction": "Write a 70 word article on the importance of data security"
+  },
+  {
+    "instruction": "Write a short story about a conversation between a police officer and a suspect."
+  },
+  {
+    "instruction": "Translate \"Ich bin ein Berliner\" into English."
+  },
+  {
+    "instruction": "Which river runs through the city of London?"
+  },
+  {
+    "instruction": "Construct a chatbot dialogue for a customer service that is looking to help customers order a particular product."
+  },
+  {
+    "instruction": "Design an intuitive user experience for a banking app."
+  },
+  {
+    "instruction": "What is divergent thinking?"
+  },
+  {
+    "instruction": "Write an article about the importance of using a facial recognition system in businesses."
+  },
+  {
+    "instruction": "Compare the given painting and photograph."
+  },
+  {
+    "instruction": "Come up with a tagline for a green energy company."
+  },
+  {
+    "instruction": "Name some of the major landmarks in London."
+  },
+  {
+    "instruction": "Compute the average of 3,2,5"
+  },
+  {
+    "instruction": "What is an ecommerce website?"
+  },
+  {
+    "instruction": "Edit the below sentence to make its meaning more accurate."
+  },
+  {
+    "instruction": "Invent a new recipe using bananas"
+  },
+  {
+    "instruction": "Rewrite the given sentence by replacing the noun with a pronoun."
+  },
+  {
+    "instruction": "Generate a recipe for a vegan version of a Caesar salad"
+  },
+  {
+    "instruction": "Classify the following movie as romance, thriller, action, or comedy."
+  },
+  {
+    "instruction": "Edit the following sentence to make it more concise:\n\nThe experiment demonstrated that the bacteria survived in higher temperatures."
+  },
+  {
+    "instruction": "Explain an AI application used in healthcare."
+  },
+  {
+    "instruction": "Given the definition of a word, create a mnemonic that helps you remember it"
+  },
+  {
+    "instruction": "Create a new title and opening sentence for the following story: \n\nThor was a brave warrior who lived in an ancient era and belonged to a formidable tribe."
+  },
+  {
+    "instruction": "What is the most natural satellite of Earth?"
+  },
+  {
+    "instruction": "Search the internet and make a comparison table for two different types of digital cameras."
+  },
+  {
+    "instruction": "Create an algorithm that draws a circle in 3D space."
+  },
+  {
+    "instruction": "Write a sample script for ordering a pizza over the phone."
+  },
+  {
+    "instruction": "Write three sentences in passive voice."
+  },
+  {
+    "instruction": "Is it possible for a person to be both an introvert and an extrovert?"
+  },
+  {
+    "instruction": "List five reasons why using organic food is important"
+  },
+  {
+    "instruction": "Describe a species of penguins found in Antarctica."
+  },
+  {
+    "instruction": "Design a PowerPoint presentation to explain the differences between artificial intelligence and machine learning."
+  },
+  {
+    "instruction": "Describe the steps to use AI to solve this humanitarian problem."
+  },
+  {
+    "instruction": "Specify technical skills that are required for Data Scientist role."
+  },
+  {
+    "instruction": "Generate a Lewis dot structure for carbon dioxide."
+  },
+  {
+    "instruction": "Planet Earth has 3 oceans. List them."
+  },
+  {
+    "instruction": "Generate a photo caption for this photo"
+  },
+  {
+    "instruction": "Pick five books which have been influential to the field of Artificial Intelligence"
+  },
+  {
+    "instruction": "Explain the implications of the given information."
+  },
+  {
+    "instruction": "Generate a list of appropriate titles for a book about the following topics."
+  },
+  {
+    "instruction": "Find all the hyperlinks in the input, and provide them as output for a clickable link."
+  },
+  {
+    "instruction": "Describe strategy for converting the RGB colorspace to the CMYK colorspace."
+  },
+  {
+    "instruction": "Create a function that computes the average of an array of numbers."
+  },
+  {
+    "instruction": "Translate this sentence into French: \"I ate breakfast at nine o'clock this morning.\""
+  },
+  {
+    "instruction": "Generate a paragraph based on the given information."
+  },
+  {
+    "instruction": "Output a conversation between two people at a job interview."
+  },
+  {
+    "instruction": "Describe a character named \"John\" in 3 sentences."
+  },
+  {
+    "instruction": "How can we combat climate change?"
+  },
+  {
+    "instruction": "Provide an adjective to describe someone who is always cheerful."
+  },
+  {
+    "instruction": "Classify the following words related to fruits."
+  },
+  {
+    "instruction": "What is the formula of the perimeter of a square?"
+  },
+  {
+    "instruction": "What is the average airline ticket price from Los Angeles to San Francisco?"
+  },
+  {
+    "instruction": "Summarize the following two paragraphs in one sentence."
+  },
+  {
+    "instruction": "Edit the given essay to make it more convincing."
+  },
+  {
+    "instruction": "Name the different emotions inferred from the sentence."
+  },
+  {
+    "instruction": "Summarize the following sentence in a single sentence that is 15 words or less."
+  },
+  {
+    "instruction": "Create a plan to create a budget"
+  },
+  {
+    "instruction": "List the ingredients and steps to make lemon bars"
+  },
+  {
+    "instruction": "Take this text and transcribe it into a different language."
+  },
+  {
+    "instruction": "Combine two text inputs and output a single valid sentence."
+  },
+  {
+    "instruction": "Provide a list of different tasks a GPT language model can complete."
+  },
+  {
+    "instruction": "Write an imparative sentence providing instructions for a user."
+  },
+  {
+    "instruction": "Write a review for the online store NicerShoes."
+  },
+  {
+    "instruction": "Given a binary classification dataset, predict the output class given the input using a logistic regression model."
+  },
+  {
+    "instruction": "Write an algorithm for counting up to three."
+  },
+  {
+    "instruction": "Generate a sentence that has the same meaning as this sentence: \"The man was determined to succeed in his endeavor.\""
+  },
+  {
+    "instruction": "List three ideas for improving customer service"
+  },
+  {
+    "instruction": "Brainstorm ideas for a children's party."
+  },
+  {
+    "instruction": "Design a game to teach children about climate change."
+  },
+  {
+    "instruction": "Formulate an 'if-then' statement using the following sentence."
+  },
+  {
+    "instruction": "List five types of musical instruments used in symphony orchestras"
+  },
+  {
+    "instruction": "How old was Leonardo Da Vinci when he painted the Mona Lisa?"
+  },
+  {
+    "instruction": "Summarize the content in the following passage."
+  },
+  {
+    "instruction": "Write a story about an astronaut who goes on a mission to the moon."
+  },
+  {
+    "instruction": "Classify the given plant as either a monocot or a dicot."
+  },
+  {
+    "instruction": "Find a recipe for strawberry smoothie."
+  },
+  {
+    "instruction": "What are the advantages of a decision tree?"
+  },
+  {
+    "instruction": "Replace the \\\"XXX\\\" in the following sentence with a meaningful sentence."
+  },
+  {
+    "instruction": "How does the famous quote \"The only thing necessary for the triumph of evil is for good men to do nothing\" by Edmund Burke relate to the current political climate?"
+  },
+  {
+    "instruction": "Create an ad that promotes the following product:"
+  },
+  {
+    "instruction": "Generate three questions from the given input."
+  },
+  {
+    "instruction": "Conceptually explain the following meaning of the phrase: \"with great power comes great responsibility\"."
+  },
+  {
+    "instruction": "Generate 4 ideas for a Halloween themed party."
+  },
+  {
+    "instruction": "Compare the digestive systems of humans and birds"
+  },
+  {
+    "instruction": "Write an indirect tweet that President Donald Trump might have sent"
+  },
+  {
+    "instruction": "Generate an open-ended story by continuing from the given start."
+  },
+  {
+    "instruction": "In the following document, replace the phrase “investment program” with “business strategy”"
+  },
+  {
+    "instruction": "Generate an algorithm for identifying spam emails."
+  },
+  {
+    "instruction": "Explain differences between robotics and automation"
+  },
+  {
+    "instruction": "Analyze the strengths and weaknesses of the current healthcare system in the United States."
+  },
+  {
+    "instruction": "Given this sentence, generate the stem for each word in the sentence."
+  },
+  {
+    "instruction": "Design an automated parking system"
+  },
+  {
+    "instruction": "Write a fable using animals."
+  },
+  {
+    "instruction": "Identify the main thesis of a certain essay."
+  },
+  {
+    "instruction": "Generate a creative phrase which describes the sound of a guitar playing."
+  },
+  {
+    "instruction": "What is the basic idea behind GPT models?"
+  },
+  {
+    "instruction": "Draft an email to a potential customer about promoting a new product."
+  },
+  {
+    "instruction": "Name a classical musician who lived in the 19th century."
+  },
+  {
+    "instruction": "Suggest one practical activity to help reduce air pollution."
+  },
+  {
+    "instruction": "Come up with an experiment to test the impact of a new product."
+  },
+  {
+    "instruction": "Generate a new sentence that shows the potential risks of artificial intelligence."
+  },
+  {
+    "instruction": "Summarize the process of water cycle."
+  },
+  {
+    "instruction": "Trace the following IP address 10.12.129.54"
+  },
+  {
+    "instruction": "Write a story about a special moment you shared with a close friend."
+  },
+  {
+    "instruction": "You are given a list of events. Using the given events, compose a story."
+  },
+  {
+    "instruction": "Match the following countries with their capitals."
+  },
+  {
+    "instruction": "Delete all elements in the array that are greater than 5."
+  },
+  {
+    "instruction": "Write a code that computes the sum of two integers, given their values as parameters."
+  },
+  {
+    "instruction": "How can a GPT language model help with natural language understanding?"
+  },
+  {
+    "instruction": "List three types of carbohydrates."
+  },
+  {
+    "instruction": "Identify a customer segment for a new product"
+  },
+  {
+    "instruction": "What are some simple tips for backup and recovery of data?"
+  },
+  {
+    "instruction": "Given the given article, edit it such that the new article has the given tone."
+  },
+  {
+    "instruction": "Create a professional powerpoint presentation about the benefits of using a financial planner."
+  },
+  {
+    "instruction": "Generate a creative title for a podcast episode."
+  }
+]

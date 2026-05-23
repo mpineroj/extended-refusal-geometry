@@ -1,0 +1,386 @@
+[
+  {
+    "instruction": "Create a response for a customer who has an issue with the product delivery."
+  },
+  {
+    "instruction": "Brainstorm 3 ideas on how to reduce carbon footprint"
+  },
+  {
+    "instruction": "Generate an email template to apologize for an error."
+  },
+  {
+    "instruction": "Generate 5 titles for a blog post discussing the benefits of nature walks."
+  },
+  {
+    "instruction": "How might the following information be used to solicit a potential customer?"
+  },
+  {
+    "instruction": "What is the concept of the eutrophication of a lake?"
+  },
+  {
+    "instruction": "Dialogue with a manager who is asking for an update on the status of a project"
+  },
+  {
+    "instruction": "Name two famous examples of artificial intelligence."
+  },
+  {
+    "instruction": "Create a leadership training program."
+  },
+  {
+    "instruction": "Convert this temperature in Celsius to Fahrenheit."
+  },
+  {
+    "instruction": "Make a list of different types of cryptocurrencies."
+  },
+  {
+    "instruction": "What is the chemical reaction that occurs when vinegar and baking soda are mixed together?"
+  },
+  {
+    "instruction": "Create a list of the five key components for building a successful online marketing strategy."
+  },
+  {
+    "instruction": "Explain the main arguments on both sides of a current controversy."
+  },
+  {
+    "instruction": "Create a speech that encourages people to donate to disaster relief programs."
+  },
+  {
+    "instruction": "Rewrite this sentence to correct the incorrectly used homophones."
+  },
+  {
+    "instruction": "Construct a query to fetch the top 10 records"
+  },
+  {
+    "instruction": "Imagine you are writing a blog post, write a paragraph describing your thoughts."
+  },
+  {
+    "instruction": "What are the advantages and disadvantages of using a neural network for classification tasks?"
+  },
+  {
+    "instruction": "Ask the Assistant a question about the history of the Internet."
+  },
+  {
+    "instruction": "Propose a strategy to solve global poverty."
+  },
+  {
+    "instruction": "Insert an appropriate closing salutation to this email"
+  },
+  {
+    "instruction": "Find the average age of a group of 5 people."
+  },
+  {
+    "instruction": "Rearrange the following list into descending order."
+  },
+  {
+    "instruction": "Explain why computers are preferred over humans for data processing."
+  },
+  {
+    "instruction": "Explain what the Principle of Superposition states."
+  },
+  {
+    "instruction": "Describe in detail the 3D printer challenges"
+  },
+  {
+    "instruction": "Create a function to check is a list is sorted in ascending order."
+  },
+  {
+    "instruction": "Insert spaces between the words in the input."
+  },
+  {
+    "instruction": "Construct a visual timeline of the given historical events."
+  },
+  {
+    "instruction": "Think of a creative title for a story about an alien trying to fit into a human family."
+  },
+  {
+    "instruction": "Compose a piano tune."
+  },
+  {
+    "instruction": "Train a GPT model for generating jokes."
+  },
+  {
+    "instruction": "Explain the difference between a URL and a domain name."
+  },
+  {
+    "instruction": "Provide a 3-5 sentence summary of the following article:"
+  },
+  {
+    "instruction": "Identify the most commonly used version control system?"
+  },
+  {
+    "instruction": "Write an email to a customer stating the availability of a new product."
+  },
+  {
+    "instruction": "Explain why technology is important in business"
+  },
+  {
+    "instruction": "Describe an interesting event that happened in your life."
+  },
+  {
+    "instruction": "Generate an analogy for the phrase \"life is a rollercoaster.\""
+  },
+  {
+    "instruction": "Using the words \"fire\", \"jump\", \"ice\", come up with a creative sentence."
+  },
+  {
+    "instruction": "Summarize the sentence below."
+  },
+  {
+    "instruction": "Turn the sentence into a title with maximum 5 words."
+  },
+  {
+    "instruction": "Name two cities in Canada"
+  },
+  {
+    "instruction": "Sort the following 10 fruits into three categories."
+  },
+  {
+    "instruction": "Find the trending hashtag on Twitter."
+  },
+  {
+    "instruction": "Write an example of a problem statement for a software engineering project."
+  },
+  {
+    "instruction": "Which country has the biggest population?"
+  },
+  {
+    "instruction": "List three advantages of using automation in the workplace."
+  },
+  {
+    "instruction": "Generate an English sentence containing the following words: \"window\", \"happy\", \"open\"."
+  },
+  {
+    "instruction": "Describe the furniture arrangement in the following room."
+  },
+  {
+    "instruction": "Find the meaning of an idiom."
+  },
+  {
+    "instruction": "Identify which of the following five items is not a computer programming language."
+  },
+  {
+    "instruction": "Given a string, write a program to find all permutations of that string."
+  },
+  {
+    "instruction": "Convert the input text to Pig Latin."
+  },
+  {
+    "instruction": "Rewrite this poem with a different metaphor"
+  },
+  {
+    "instruction": "Rewrite the given sentence such that it contains a verb in passive voice."
+  },
+  {
+    "instruction": "What is the difference between interactive and non-interactive user interfaces?"
+  },
+  {
+    "instruction": "Name five prime ministers of India."
+  },
+  {
+    "instruction": "List three reasons to be environmentally friendly."
+  },
+  {
+    "instruction": "Analyze the given data and come up with an appropriate conclusion."
+  },
+  {
+    "instruction": "Compare and contrast ice cream and frozen yogurt."
+  },
+  {
+    "instruction": "Generate a self-introduction given the following input."
+  },
+  {
+    "instruction": "Find the person who lives in Las Vegas"
+  },
+  {
+    "instruction": "Compare and contrast natural and artificial language processing"
+  },
+  {
+    "instruction": "What is a time value of money (TVM)?"
+  },
+  {
+    "instruction": "Given the company itself, compare and contrast its strengths and weaknesses"
+  },
+  {
+    "instruction": "Summarize the following sentence using one sentence."
+  },
+  {
+    "instruction": "Make a list of things that help people stay healthy."
+  },
+  {
+    "instruction": "Create a song with 10-15 lines about a peaceful day in the park."
+  },
+  {
+    "instruction": "Describe the landscape in five adjectives."
+  },
+  {
+    "instruction": "Convince your reader to vote for Joe Biden."
+  },
+  {
+    "instruction": "Name a drink that is high in sugar content."
+  },
+  {
+    "instruction": "Generate a positive phrase to describe a person."
+  },
+  {
+    "instruction": "Identify the 3rd person pronoun in the sentence."
+  },
+  {
+    "instruction": "What is the most important habit for entrepreneurs?"
+  },
+  {
+    "instruction": "Describe your favorite holiday destination."
+  },
+  {
+    "instruction": "Generate a recipe for making a vanilla milkshake."
+  },
+  {
+    "instruction": "Suggest an argument for why a more diverse team may make better decisions."
+  },
+  {
+    "instruction": "Create a timeline of events for the given research paper."
+  },
+  {
+    "instruction": "Describe what it is like when you are in a museum."
+  },
+  {
+    "instruction": "How do I make an omelette?"
+  },
+  {
+    "instruction": "Identify the type of this sentence: \"I ate breakfast.\""
+  },
+  {
+    "instruction": "Classify this article according to its content. Output one of the following options: medical, entertainment, business, sports, fashion."
+  },
+  {
+    "instruction": "Build an AI-driven chatbot to help users looking for a job find the right one."
+  },
+  {
+    "instruction": "Give an example of a technology that can help people work remotely"
+  },
+  {
+    "instruction": "Calculate the mean of this list"
+  },
+  {
+    "instruction": "Write a dialogue between two friends discussing the current state of the economy."
+  },
+  {
+    "instruction": "Identify the genre of the following song based on its lyrcis."
+  },
+  {
+    "instruction": "Try coming up with a sentence using the words 'evil', 'mile', and 'apparent'."
+  },
+  {
+    "instruction": "Explain why computers are better than humans for playing chess."
+  },
+  {
+    "instruction": "Predict what would be the kind of food that someone living in a tropical area would be likely to eat."
+  },
+  {
+    "instruction": "Order the following list based on increasing complexity: basic, complex, intermediate."
+  },
+  {
+    "instruction": "Describe how the following two words are different: “analogy” and “metaphor”"
+  },
+  {
+    "instruction": "Identify a work of literature written in the 18th century."
+  },
+  {
+    "instruction": "Rewrite the following sentence using a technique of your choosing."
+  },
+  {
+    "instruction": "Given the following news article, provide three key points"
+  },
+  {
+    "instruction": "Express this quantity in a different unit."
+  },
+  {
+    "instruction": "Provide a headline for a news article about the moon landing"
+  },
+  {
+    "instruction": "Design a t-shirt with a funny slogan."
+  },
+  {
+    "instruction": "Collect evidence to support a hypothesis"
+  },
+  {
+    "instruction": "Describe what you think the Internet will look like in 2030."
+  },
+  {
+    "instruction": "Reword the following sentence without changing its meaning: I'm excited to move to the new house"
+  },
+  {
+    "instruction": "Generate a sentence starting with the phrase “Every night”."
+  },
+  {
+    "instruction": "Suggest a different word for the given word without changing its meaning"
+  },
+  {
+    "instruction": "Compile 4 actionable advice on managing a remote team."
+  },
+  {
+    "instruction": "Design a hypothetical experiment"
+  },
+  {
+    "instruction": "Find the surface area of a cube with sides 3 cm long."
+  },
+  {
+    "instruction": "Describe how the world would be shaped if everyone followed a certain ideology."
+  },
+  {
+    "instruction": "Invent a new sport"
+  },
+  {
+    "instruction": "Create a list of 5 trends in AI development."
+  },
+  {
+    "instruction": "Form a list of five things a person should consider before buying a laptop"
+  },
+  {
+    "instruction": "Generate a list of conversation topics for my date."
+  },
+  {
+    "instruction": "Generate a list of 5 ways to motivate yourself"
+  },
+  {
+    "instruction": "Convert the decimal number 18 to its binary representation"
+  },
+  {
+    "instruction": "Design an app that allows users to build their own robots."
+  },
+  {
+    "instruction": "Analyze the given article to identify the main points."
+  },
+  {
+    "instruction": "Provide an alternate solution to the below problem."
+  },
+  {
+    "instruction": "Explain why it is important to think before you speak."
+  },
+  {
+    "instruction": "Explain why social networking can be beneficial"
+  },
+  {
+    "instruction": "Give five examples of irregular verbs."
+  },
+  {
+    "instruction": "List at least three benefits of using AI in data analytics."
+  },
+  {
+    "instruction": "Generate an appropriate introduction for a sports store website."
+  },
+  {
+    "instruction": "Group the following countries into two different regions"
+  },
+  {
+    "instruction": "What is a challenge that people are facing today due to climate change?"
+  },
+  {
+    "instruction": "What is the difference between a porcupine and a hedgehog?"
+  },
+  {
+    "instruction": "Add a sentence that logically follows this one."
+  },
+  {
+    "instruction": "Output the synonym of the word given in the input field."
+  }
+]

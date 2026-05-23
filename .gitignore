@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Environments
+.env
+.venv/
+venv/
+
+# Model weights and caches
+models/
+.hf_cache/
+path-to-huggingface-cache/
+
+# Results and data downloaded from Modal volume
+geometry_results_final/
+results/
+results_from_modal/
+
+# Generated figures (regenerate from analysis/analyze.py)
+figures/
+*.png
+*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp

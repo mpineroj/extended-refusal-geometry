@@ -1,4 +1,4 @@
-# ER Geometry V2 Runbook
+# ER Geometry Runbook
 
 This repository contains the geometry-analysis code used to study refusal
 directions, refusal cones, and representational independence. It assumes model

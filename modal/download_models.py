@@ -37,6 +37,7 @@ image = (
     image=image,
     gpu="A100-80GB",
     volumes={VOL_PATH: vol},
+    secrets=[modal.Secret.from_name("huggingface")],
     timeout=36000,
 )
 def download(skip_baseline: bool = False):
@@ -57,6 +58,7 @@ def download(skip_baseline: bool = False):
         "HUGGINGFACE_CACHE_DIR": f"{VOL_PATH}/cache",
         "HF_HOME": f"{VOL_PATH}/cache",
         "TRANSFORMERS_CACHE": f"{VOL_PATH}/cache",
+        "HUGGING_FACE_HUB_TOKEN": os.environ.get("HF_TOKEN", ""),
     })
 
     cmd = [
